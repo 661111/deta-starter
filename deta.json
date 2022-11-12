@@ -17,5 +17,25 @@
 			"description": "Your LeanCloud Master Key",
 			"required": false 
 		}
+		{
+			"key": "MAIL_SUBJECT",
+			"description": "Your MAIL_SUBJECT",
+			"required": false 
+		},
+                {
+			"key": "MAIL_TEMPLATE",
+			"description": "Your MAIL_SUBJECT",
+			"required": false 
+		},
+                {
+			"key": "MAIL_SUBJECT_ADMIN",
+			"description": "Your MAIL_SUBJECT",
+			"required": false 
+		},
+                {
+			"key": "MAIL_TEMPLATE_ADMIN",
+			"description": "Your MAIL_SUBJECT",
+			"required": false 
+		},
 	]
 }
